@@ -1,0 +1,8 @@
+Django==1.4.22
+oauthlib==1.0.3
+pyjwt==1.4.0
+python-openid==2.2.5
+python-social-auth==0.2.13
+requests==2.8.1
+requests-oauthlib==0.5.0
+six==1.10.0
